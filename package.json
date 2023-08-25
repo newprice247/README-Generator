@@ -1,5 +1,29 @@
 {
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "Module 9 Project-UCF Fullstack Coding Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newprice247/README-Generator.git"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "README",
+    "Generator"
+  ],
+  "author": "Nathaniel Price",
+  "license": "ISC",
   "dependencies": {
-    "inquirer": "^9.2.10"
-  }
+    "inquirer": "^8.2.4"
+  },
+  "bugs": {
+    "url": "https://github.com/newprice247/README-Generator/issues"
+  },
+  "homepage": "https://github.com/newprice247/README-Generator#readme",
+  "devDependencies": {}
 }
