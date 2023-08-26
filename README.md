@@ -1,8 +1,8 @@
-# adfg
-  [![License: GPL](https://img.shields.io/badge/License-GPL-yellow.svg)](https://opensource.org/licenses/GPL)
+# aasdg
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Description
 
-  sdf
+  adsf
 
   ## Table of Contents 
   
@@ -16,31 +16,31 @@
   
   ## Installation
 
-  gdf
+  g
 
   ## Usage
 
-  gsdf
+  dsfg
 
   ## How to Contribute
 
-  g
+  df
 
   ## Credits
 
-  df
+  gsd
 
   ## License
 
-  * GPL
-  * [Link to GPL](https://opensource.org/licenses/GPL)
+  [MIT](https://opensource.org/licenses/MIT)
 
   ## Tests
 
-  sdfgs
+  g
 
   ## Questions
-
-  [username: df](https://github.com/df)
   
-  Email: sdfg
+  Reach out to me if you have any questions about the project!
+  [newprice247](https://github.com/newprice247)
+  
+  Email: newprice247@gmail.com

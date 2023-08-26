@@ -14,7 +14,7 @@ function renderLicenseLink(license) {
   if (license === null) {
     license = ''
   } else {
-    return `[Link to ${license}](https://opensource.org/licenses/${license})`
+    return `[${license}](https://opensource.org/licenses/${license})`
   }
 }
 
@@ -63,16 +63,16 @@ function generateMarkdown(data) {
 
   ${renderLicenseSection(data.license)}
 
-  * ${data.license}
-  * ${renderLicenseLink(data.license)}
+  ${renderLicenseLink(data.license)}
 
   ## Tests
 
   ${data.test}
 
   ## Questions
-
-  [username: ${data.username}](https://github.com/${data.username})
+  
+  Reach out to me if you have any questions about the project!
+  [Github: ${data.username} @ Github](https://github.com/${data.username})
   
   Email: ${data.email}
 `;
