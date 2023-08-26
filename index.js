@@ -2,23 +2,8 @@
 // TODO: Include packages needed for this application
 const inquirer = require('inquirer')
 const generateMarkdown = require('./utils/generateMarkdown.js')
-// const fs = require('fs');
+const fs = require('fs');
 // TODO: Create an array of questions for user input
-
-const runner = async () => {
-
-    try {
-        console.log('Program Started')
-        inquirer.prompt(questions)
-        const response = await inquirer.get(response)
-        console.log(response)
-        
-        console.log('program ended')
-    } catch (error) {
-        console.log(error)
-    }
-}
-runner()
 
 const questions = [
     {
@@ -34,10 +19,43 @@ const questions = [
     {
         type: 'input',
         message: 'How will users install your project?',
-        name: 'installationInstructions'
+        name: 'installation'
     },
     {
-
+        type: 'input',
+        message: 'How will the user interact with your project?',
+        name: 'usage'
+    },
+    {
+        type: 'input',
+        message: 'How can users contribute to the project?',
+        name: 'contribution'
+    },
+    {
+        type: 'input',
+        message: 'Who would you like to give credit to for this project?',
+        name: 'credits'
+    },
+    {
+        type: 'list',
+        name: 'license',
+        message: 'Which license(s) are you using for this project?',
+        choices: ['MIT', 'Apache', 'BSD', 'General Public License(GPL)', 'GNU Lesser General Public License (LGPL)', 'Mozilla Public License (MPL)']
+    },
+    {
+        type: 'input',
+        message: 'How can users test your project?',
+        name: 'test'
+    },
+    {
+        type: 'input',
+        message: 'What is your GitHub username?',
+        name: 'username'
+    },
+    {
+        type: 'input',
+        message: 'What is your email address?',
+        name: 'email'
     }
 
 ];
