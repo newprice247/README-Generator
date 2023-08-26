@@ -1,11 +1,10 @@
-# Readme Gen
+# adfg
+  [![License: GPL](https://img.shields.io/badge/License-GPL-yellow.svg)](https://opensource.org/licenses/GPL)
   ## Description
 
-  Generates Readmes
+  sdf
 
   ## Table of Contents 
-  
-  
   
   - [Installation](#installation)
   - [Usage](#usage)
@@ -17,30 +16,31 @@
   
   ## Installation
 
-  install.exe
+  gdf
 
   ## Usage
 
-  using it
+  gsdf
 
   ## How to Contribute
 
-  pull and push
+  g
 
   ## Credits
 
-  god
+  df
 
   ## License
 
-  MIT
+  * GPL
+  * [Link to GPL](https://opensource.org/licenses/GPL)
 
   ## Tests
 
-  test it
+  sdfgs
 
   ## Questions
 
-  [username: newpri3e](https://github.com/newpri3e)
+  [username: df](https://github.com/df)
   
-  Email: l;aksdj@gamil.conm
+  Email: sdfg
