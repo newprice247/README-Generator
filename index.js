@@ -65,7 +65,7 @@ const questions = [
 inquirer.prompt(questions)
         .then((data) => {
             let writeToFile = (data) => {
-                fs.writeFile('readme.md', `${data}`, function (err) {
+                fs.writeFile('generatedReadme.md', `${data}`, function (err) {
                     err ? console.log(err) : console.log('Success!');
                 })
             }
