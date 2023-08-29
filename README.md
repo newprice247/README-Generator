@@ -15,6 +15,12 @@ The goal of this project was to build an application that would use user-input t
 
 ### Deployed Website
 
+[Video of App in Action](https://drive.google.com/file/d/1cHeeKmTKzAWlqyvE1K2GqIAxUmkmyGpj/view)
+
+
+
 ## Contact Me
 
 [Nathaniel Price](https://github.com/newprice247) @ Github
+
+newprice247@gmail.com

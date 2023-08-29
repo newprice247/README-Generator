@@ -1,8 +1,8 @@
-# nathan
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Readme Generator
+  [![License: Apache](https://img.shields.io/badge/License-Apache-yellow.svg)](https://opensource.org/licenses/Apache)
   ## Description
 
-  nathan
+  Module 9 Homework Assignment
 
   ## Table of Contents 
   
@@ -16,32 +16,32 @@
   
   ## Installation
 
-  nathan
+  clone the repo, then run npm install to auto-install all necessary dependencies
 
   ## Usage
 
-  nathan
+  using the terminal, run 'node index.js'
 
   ## How to Contribute
 
-  nathan
+  clone the repo, make changes, push commits
 
   ## Credits
 
-  nathan
+  UCF coding bootcamp
 
   ## License
 
-  [MIT](https://opensource.org/licenses/MIT)
+  [Apache](https://opensource.org/licenses/Apache)
 
   ## Tests
 
-  nathan
+  use it and give feedback
 
   ## Questions
   
   Reach out to me if you have any questions about the project!
   
-  [Github: nathan @ Github](https://github.com/nathan)
+  [Github: newprice247 @ Github](https://github.com/newprice247)
   
-  Email: nathan
+  Email: newprice247@gmail.com
