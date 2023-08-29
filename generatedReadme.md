@@ -10,7 +10,7 @@
   - [Usage](#usage)
   - [Credits](#credits) 
   - [Contribution](#contribution)
-  - [License](#License)
+  - [License](#license)
   - [Test](#test)
   - [Questions](#questions)
   
@@ -22,7 +22,7 @@
 
   using the terminal, run 'node index.js'
 
-  ## How to Contribute
+  ## Contribution
 
   clone the repo, make changes, push commits
 
